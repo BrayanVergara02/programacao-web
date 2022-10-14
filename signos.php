@@ -21,7 +21,6 @@ body {
   width: 100vw;
   height: 100vh;
   /**background: #ecf0f3;**/
-  background-image: url(space.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
